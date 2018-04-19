@@ -8,4 +8,4 @@
 
 ### Screenshot
 
-<img src="https://github.com/nirajradadiya/react-native-music/screen/screen1.png" width="100"/>
+<img src="https://github.com/nirajradadiya/react-native-music/blob/master/screen/screen1.png" width="100"/>
