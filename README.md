@@ -2,6 +2,6 @@
 
 ### Installation
 
-- git clone git@github.com:boozzd/react-native-boilerplate.git
+- git clone https://github.com/nirajradadiya/react-native-music.git
 - npm install
 - react-native run-android
