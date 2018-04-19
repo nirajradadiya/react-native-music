@@ -8,5 +8,4 @@
 
 ### Screenshot
 
-![Screenshot](screen/screen1.png)
-
+![Alt text](/screen/screen1.png) ![Alt text](/screen/screen2.png)
