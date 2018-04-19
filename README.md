@@ -8,4 +8,4 @@
 
 ### Screenshot
 
-![Alt text](/screen/screen1.png) ![Alt text](/screen/screen2.png)
+<img src="https://github.com/nirajradadiya/react-native-music/screen/screen1.png" width="100"/>
